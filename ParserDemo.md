@@ -26,11 +26,13 @@ Find declaration/usages помогают понять где объявден и
 а какой-то результат пользователь хочет увидеть сразу.
 Поэтому парсинг файла можно разделить на следующие этапы:
 
+
 1. Лексический анализ первых N линий
 2. Парсинг структуры файла + парсинг вьюпорта пользователя
 3. Полный парсинг
 
 ![types.png](demo/types.png)
+
 
 Результат работы любого из анализаторов передается затем в ParserUtils в виде массива int[] result,
 где позже из него собирается Document.
@@ -85,7 +87,9 @@ Find declaration/usages помогают понять где объявден и
 
 ![parsers_times](demo/parsers_times.png) Сравнительная таблица методов парсинга  
 
-![parser_work](demo/parser_work.gif) Демонстрация работы парсеров.
+https://github.com/pertsevpv/ParserDemo/assets/57060856/6fde9289-3694-4e43-b324-c150824a342a
+
+Демонстрация работы парсеров.
 
 ### Обход деревьев
 
@@ -122,6 +126,12 @@ Find declaration/usages помогают понять где объявден и
 специфичные для языка конструкции, подсвечиваем его соответствующим образом.
 
 
-![resolve](demo/resolve.gif) Пример поиска declaration для локальных переменных, методов и конструкторов
 
-![types_resolve](demo/types_resolve.gif) Пример поиска declaration нужного метода по типам
+
+https://github.com/pertsevpv/ParserDemo/assets/57060856/0eb36cf6-cf9a-482a-92d5-af4c8947b194
+Пример поиска declaration для локальных переменных, методов и конструкторов
+
+
+
+https://github.com/pertsevpv/ParserDemo/assets/57060856/84f74ede-65ff-4aae-b44b-cbea790ee1c8
+Пример поиска declaration нужного метода по типам
