@@ -129,9 +129,11 @@ https://github.com/pertsevpv/ParserDemo/assets/57060856/6fde9289-3694-4e43-b324-
 
 
 https://github.com/pertsevpv/ParserDemo/assets/57060856/0eb36cf6-cf9a-482a-92d5-af4c8947b194
+
 Пример поиска declaration для локальных переменных, методов и конструкторов
 
 
 
 https://github.com/pertsevpv/ParserDemo/assets/57060856/84f74ede-65ff-4aae-b44b-cbea790ee1c8
+
 Пример поиска declaration нужного метода по типам
