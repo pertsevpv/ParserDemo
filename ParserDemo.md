@@ -87,7 +87,8 @@ Find declaration/usages помогают понять где объявден и
 
 ![parsers_times](assets/parsers_times.png) Сравнительная таблица методов парсинга  
 
-https://github.com/pertsevpv/ParserDemo/assets/57060856/6fde9289-3694-4e43-b324-c150824a342a
+
+https://github.com/pertsevpv/ParserDemo/assets/57060856/3ba54db4-e2f4-4233-890c-64e00a85c6a7
 
 Демонстрация работы парсеров.
 
@@ -126,15 +127,14 @@ https://github.com/pertsevpv/ParserDemo/assets/57060856/6fde9289-3694-4e43-b324-
 специфичные для языка конструкции, подсвечиваем его соответствующим образом.
 
 
+https://github.com/pertsevpv/ParserDemo/assets/57060856/f1fed374-1579-4c4d-a824-c2e9773b48e4
 
-
-https://github.com/pertsevpv/ParserDemo/assets/57060856/0eb36cf6-cf9a-482a-92d5-af4c8947b194
 
 Пример поиска declaration для локальных переменных, методов и конструкторов
 
 
+https://github.com/pertsevpv/ParserDemo/assets/57060856/a9c6b998-eef4-44ff-b996-0a43beafb6bb
 
-https://github.com/pertsevpv/ParserDemo/assets/57060856/84f74ede-65ff-4aae-b44b-cbea790ee1c8
 
 Пример поиска declaration нужного метода по типам
 
