@@ -150,3 +150,8 @@ https://github.com/pertsevpv/ParserDemo/assets/57060856/a9c6b998-eef4-44ff-b996-
 правильную подсветку синтаксиса.
 
 ![tree.png](assets/tree.png)
+
+
+https://github.com/pertsevpv/ParserDemo/assets/57060856/839d103f-cf79-463c-afe0-70f7a9e0f85d
+
+
